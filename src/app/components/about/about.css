@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#about{
+    height: 300px;
+    background-color:darkgrey;
+}
+#aboutme{
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
+#p{
+    font-weight: 300;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 35px;
+}

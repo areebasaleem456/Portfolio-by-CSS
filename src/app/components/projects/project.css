@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#projects{
+    height: 600px;
+    background-color: darkgray;
+}
+#myproject{
+    margin-left: 500px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.text{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 20px;
+    font-size:large;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+#span{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: larger;
+    margin-left: 350px;
+    
+}
+.nextprojects{
+    height: 200px;
+    width: 300px;
+    border: 2px solid gray;
+    margin: 70px; 
+}
+#showproject{
+    display: flex;
+
+}
+.static{
+  font-size:small;
+  color: rgb(97, 5, 150);
+  margin: 10px;
+}
+.srb{
+ font-size: larger;
+ margin: 10px;
+}
+#view{
+    margin-left: 20px;
+}
+.nextprojects:hover{background-color: grey;}
